@@ -42,7 +42,3 @@ if uploaded_file:
             st.markdown("---")
     else:
         st.info("Ничего не найдено.")
-
-streamlit
-pandas
-odfpy
